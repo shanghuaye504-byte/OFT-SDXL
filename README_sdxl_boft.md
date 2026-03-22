@@ -1,4 +1,4 @@
-OFT-SDXL (BOFT Fine-tuning for SDXL)
+OFT-SDXL (BOFT Fine-tuning for SDXL) 
 Overview
 This project fine-tunes SDXL using BOFT/OFT (PEFT) for DreamBooth-style subject learning (e.g., character/toy identity).
 
