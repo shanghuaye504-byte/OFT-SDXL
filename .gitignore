@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 你的项目特定的数据和输出目录
+data/
+results_boft/
+oft-trained-xs/
+boft-trained-xl/
+
+# 模型权重文件
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# 系统文件
+.DS_Store
